@@ -3,9 +3,9 @@
 ![image](https://img.shields.io/badge/Android-Custom%20User%20Switcher-brightgreen.svg)
 
 ## ScreenShot
-![image](https://github.com/MuhammadZohair/Face-Detection/blob/master/Screenshot.gif)
+![image](https://github.com/MuhammadZohair/Custom-User-Switcher/raw/master/Screenshot.gif)
 
-[Demo Download](https://github.com/MuhammadZohair/Face-Detection/blob/master/Face%20Detection.apk)
+[Demo Download](https://github.com/MuhammadZohair/Custom-User-Switcher/raw/master/Custom%20User%20Switcher.apk)
 
 ## License
 

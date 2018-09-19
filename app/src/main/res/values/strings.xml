@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Custom User Switcher</string>
+    <string name="title_top_right">Top Right</string>
+    <string name="email_address">Email Address</string>
+    <string name="user0">user0</string>
+    <string name="user1">user1</string>
+    <string name="user2">user2</string>
+    <string name="user3">user3</string>
+    <string name="user4">user4</string>
+    <string name="phone">Phone #:</string>
+    <string name="address">Address:</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name:</string>
+    <string name="save_record">Save Record</string>
+    <string name="password">Password:</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+
+    <string-array name="emails">
+        <item>ncockitt0@ebay.com</item>
+        <item>ccline1@icq.com</item>
+        <item>lbritzius2@epa.gov</item>
+        <item>mdjurkovic3@amazon.com</item>
+        <item>jamacskeagan4@diigo.com</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>Nelli Cockitt</item>
+        <item>Codi Cline</item>
+        <item>Lilyan Britzius</item>
+        <item>Merralee Djurkovic</item>
+        <item>Antonetta MacSkeagan</item>
+    </string-array>
+
+    <string-array name="phone_numbers">
+        <item>+359 250 363 8756</item>
+        <item>+86 329 563 6545	</item>
+        <item>+235 563 453 5626</item>
+        <item>+504 497 619 0629</item>
+        <item>+62 779 154 2176</item>
+    </string-array>
+
+    <string-array name="passwords">
+        <item>123123</item>
+        <item>123123</item>
+        <item>123123</item>
+        <item>123123</item>
+        <item>123123</item>
+    </string-array>
+
+    <string-array name="addresses">
+        <item>8356 Victoria Parkway</item>
+        <item>9 Stang Park</item>
+        <item>8528 Harper Pass</item>
+        <item>29766 Marcy Center</item>
+        <item>7 Fairview Hill</item>
+    </string-array>
+</resources>

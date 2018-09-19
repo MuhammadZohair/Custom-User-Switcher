@@ -1,0 +1,9 @@
+<resources>
+
+  <dimen name="layout_radius_medium">168dp</dimen>
+  <dimen name="layout_child_offset_large">144dp</dimen>
+  <dimen name="layout_child_offset_medium">120dp</dimen>
+  <dimen name="item_circle_size_medium">48dp</dimen>
+  <dimen name="item_font_size_medium">24sp</dimen>
+
+</resources>
